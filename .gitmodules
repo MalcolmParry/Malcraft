@@ -1,0 +1,6 @@
+[submodule "vendor"]
+	path = vendor
+	url = https://github.com/Malckinator/mwengine.git
+[submodule "vendor/mwengine"]
+	path = vendor/mwengine
+	url = https://github.com/Malckinator/mwengine.git
